@@ -14,7 +14,9 @@ Estrutura do Projeto
 Pasta dados:
 
 Contém subpastas para cada conjunto de dados.
+
 Cada subpasta deve incluir:
+
 receitas.xlsx: Arquivo com receitas.
 despesas.csv: Arquivo com despesas.
 foto.jpg: Imagem para exibição.
