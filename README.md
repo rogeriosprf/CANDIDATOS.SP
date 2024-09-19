@@ -32,7 +32,7 @@ app.py: Script principal que define a aplicação Dash e gera gráficos e págin
 Requisitos
 Python: Versão 3.6 ou superior
 Pacotes: Instale as dependências usando o seguinte comando:
-bash
+
 pip install dash pandas plotly pillow flask
 
 Como Executar
@@ -43,7 +43,6 @@ Organize os dados em pastas conforme descrito acima.
 Execute a Aplicação:
 
 Navegue até o diretório contendo app.py e execute:
-bash
 
 python app.py
 Acesse a aplicação no navegador em http://127.0.0.1:8050.
