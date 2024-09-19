@@ -4,9 +4,13 @@
 Este projeto consiste em uma aplicação web desenvolvida com Dash que permite visualizar e analisar dados financeiros de receitas e despesas. A aplicação oferece gráficos interativos e a possibilidade de visualizar detalhes adicionais dos dados em uma página separada.
 
 Funcionalidades
+
 Gráficos Interativos: Visualize gráficos de receitas, despesas e totais, com opções de detalhamento.
+
 Visualização de Dados: Acesso a detalhes adicionais através de links para páginas HTML com tabelas formatadas.
+
 Suporte para Vários Formatos de Dados: Carregamento de arquivos CSV e XLSX para processamento de dados financeiros.
+
 Formatação Brasileira: Valores são formatados no padrão brasileiro, incluindo o símbolo R$.
 
 Estrutura do Projeto
